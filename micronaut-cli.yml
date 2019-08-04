@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: openapi.visitor.bug
+---
+testFramework: junit
+sourceLanguage: java
